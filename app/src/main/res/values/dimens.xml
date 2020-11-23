@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="editTextPadding">15dp</dimen>
+  <dimen name="paddingOfMsgInList">5dp</dimen>
+  <dimen name="textSizeOfMsgInListItem">15sp</dimen>
+  <dimen name="activityMargin">15dp</dimen>
+  <dimen name="marginTopForListItem">5dp</dimen>
+  <dimen name="corner_radius_rectangle">8dp</dimen>
+</resources>

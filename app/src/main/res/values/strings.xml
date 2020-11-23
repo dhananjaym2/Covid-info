@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">Covid info</string>
+  <string name="Type_a_message_to_send">Type a message to send</string>
+  <string name="Send">Send</string>
+  <string name="somethingWentWrong">Something went wrong!</string>
+  <string name="loading">Loading…</string>
+  <string name="internetNotConnected">Please connect your mobile device to a working internet connection.</string>
+  <string name="userRequestIsNotInProperFormat">Please enter a case type and a country in required format to search for Covid cases like: \"Cases in india\"</string>
+  <string name="invalidCaseType">Incorrect case type! Please provide one of the supported: Deaths, Cases</string>
+  <string name="invalidCountry">Incorrect Country! Please provide one of the available countries.</string>
+  <string name="separatorInNotFound">Please enter a case type and a country in required format to search for Covid cases like \"Cases in india"</string>
+  <string name="networkError">API or network error.</string>
+</resources>
